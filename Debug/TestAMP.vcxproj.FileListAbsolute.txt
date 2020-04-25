@@ -1,0 +1,2 @@
+C:\Users\Юрий\source\repos\TestAMP\Debug\TestAMP.exe
+C:\Users\Юрий\source\repos\TestAMP\Debug\TestAMP.pdb
